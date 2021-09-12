@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FedeNLencina/ReactApp/static/css/main.1072ccc4.chunk.css",
+    "main.js": "/FedeNLencina/ReactApp/static/js/main.2f931434.chunk.js",
+    "main.js.map": "/FedeNLencina/ReactApp/static/js/main.2f931434.chunk.js.map",
+    "runtime-main.js": "/FedeNLencina/ReactApp/static/js/runtime-main.07862bea.js",
+    "runtime-main.js.map": "/FedeNLencina/ReactApp/static/js/runtime-main.07862bea.js.map",
+    "static/js/2.5695f28d.chunk.js": "/FedeNLencina/ReactApp/static/js/2.5695f28d.chunk.js",
+    "static/js/2.5695f28d.chunk.js.map": "/FedeNLencina/ReactApp/static/js/2.5695f28d.chunk.js.map",
+    "index.html": "/FedeNLencina/ReactApp/index.html",
+    "static/css/main.1072ccc4.chunk.css.map": "/FedeNLencina/ReactApp/static/css/main.1072ccc4.chunk.css.map",
+    "static/js/2.5695f28d.chunk.js.LICENSE.txt": "/FedeNLencina/ReactApp/static/js/2.5695f28d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07862bea.js",
+    "static/js/2.5695f28d.chunk.js",
+    "static/css/main.1072ccc4.chunk.css",
+    "static/js/main.2f931434.chunk.js"
+  ]
+}
